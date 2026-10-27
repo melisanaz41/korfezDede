@@ -213,6 +213,8 @@ BLOGLAR = [
     },
 ]
 
+BLOGLAR.extend(json.loads(r'''[{"slug":"korfez-kombi-hurdasi","baslik":"Körfez’de Kombi Hurdası: Eski Kombi Nasıl Değerlendirilir?","title":"Körfez Kombi Hurdası | Eski Kombi Değerlendirme Rehberi","desc":"Körfez ve Kocaeli’de eski kombi hurdası nasıl değerlendirilir? Metal türleri, fiyatı etkileyen unsurlar ve satış öncesi hazırlık rehberi.","govde":"\n<p>Kombi değişiminden sonra eski cihazı ne yapacağınızı düşünüyor olabilirsiniz. Körfez’de kombi hurdası değerlendirilirken cihazın tamamı, metal parçaları ve teslim durumu birlikte incelenir. İzmit, Yarımca ve Dilovası’ndaki tadilat veya tesisat yenileme işlerinden çıkan cihazlar için de model ve fotoğraf paylaşarak ön bilgi alabilirsiniz.</p>\n<h2>Eski kombi hurda olarak satılır mı?</h2><p>Kullanım dışı kombiler çeşitli metal ve metal dışı parçalardan oluşur. Çelik gövde, modele göre bakır veya farklı alaşımlardan eşanjör, pirinç bağlantılar, pompa ve elektronik parçalar bulunabilir. Her kombinin içeriği aynı değildir; dış boyutuna bakarak içindeki bakır miktarını veya hurda değerini kesin söylemek mümkün değildir.</p>\n<h2>Kombi hurdası fiyatı nasıl belirlenir?</h2><p>Cihazın modeli, bütün veya parçalı olması, malzeme bileşimi, tartım sonucu ve değerlendirme günündeki piyasa koşulları dikkate alınır. Komple kombi ağırlığı, saf bakır ağırlığı anlamına gelmez. Bu nedenle cihaz ağırlığını bakırın kilogram fiyatıyla çarpmak doğru sonuç vermez.</p><p>Teklif alırken fiyatın komple cihaz için mi yoksa ayrılmış metal türleri için mi verildiğini sorun. Taşıma ve teslim koşullarının teklife dahil olup olmadığını da önceden netleştirin.</p>\n<h2>Kombiyi teslim etmeden önce hazırlık</h2><ul><li>Marka, model etiketi ve cihazın genel görünümünün fotoğrafını çekin.</li><li>Adet bilgisini, bulunduğu katı ve adres bölgesini paylaşın.</li><li>Gaz, elektrik ve su bağlantılarının ayrılmasını yetkili servise veya ilgili uzmana yaptırın. Bağlantılı cihazı kendiniz sökmeyin.</li><li>Cihazdan parça ayırmadan önce komple teslim ile parçalı değerlendirme seçeneklerini sorun.</li></ul>\n<h2>Körfez ve çevresinde eski kombi için bilgi alma</h2><p>Merkezimiz Abdülhamit Caddesi, Körfez / Kocaeli’dedir. Eski kombinizin fotoğrafını ve konumunu paylaşarak kabul ve teslim şartlarını öğrenebilirsiniz. Yerinden alım gereksinimini, erişim durumunu ve miktarı görüşme sırasında belirtin; taşıma planını önceden kararlaştırın.</p>\n<h2>Sık sorulanlar</h2><h3>Çalışmayan kombinin değeri olur mu?</h3><p>Çalışmayan bir cihazın metal içeriği değerlendirilebilir. Net teklif, cihazın durumu ve içerdiği malzemeler incelendikten sonra belirlenir.</p><h3>Peteklerle birlikte bilgi alabilir miyim?</h3><p>Evet, kombi ve peteklerin fotoğraflarını ayrı ayrı paylaşabilirsiniz. <a href=\"/blog/korfez-petek-hurdasi/\">Petek hurdası rehberinde</a> radyatör türlerinin değerlendirmeye etkisini anlattık. Bakır parçalar için <a href=\"/bakir-hurda/\">bakır hurda sayfasını</a> da inceleyebilirsiniz.</p>","tarih":"2026-10-24"},{"slug":"kocaeli-kablo-hurdasi","baslik":"Kocaeli’de Kablo Hurdası: Bakır Kablo Nasıl Ayrılır ve Satılır?","title":"Kocaeli Kablo Hurdası | Körfez Bakır Kablo Rehberi","desc":"Kocaeli, Körfez, İzmit ve Dilovası için kablo hurdası rehberi: bakır ve alüminyum kablo ayrımı, randıman ve fiyat değerlendirmesi.","govde":"\n<p>Elektrik tesisatı yenileme, atölye çalışmaları ve üretimden kalan kablolar aynı hurda sınıfına girmez. Kocaeli’de kablo hurdası satarken iletken türü, yalıtım oranı ve malzemenin karışık olup olmadığı değerlendirmeyi etkiler. Körfez, İzmit, Dilovası ve Yarımca’dan bilgi almak isteyenler, kablo türlerini ayrı fotoğraflayarak süreci kolaylaştırabilir.</p>\n<h2>Bakır kablo ile alüminyum kablo arasındaki fark</h2><p>Kablo iletkeni bakır, alüminyum veya kaplamalı farklı bir yapı olabilir. Dış kılıfın rengi iletkenin türünü göstermez. Bakır görünümlü kaplama da tek başına saf bakır kanıtı değildir. Kablonun üzerindeki ürün bilgisi ve mevcut kesit görüntüsü ön değerlendirmeye yardımcı olur; kesin sınıflandırma malzeme incelenerek yapılır.</p>\n<h2>Kablo hurdasında randıman ne demektir?</h2><p>Randıman, kablonun toplam ağırlığı içindeki geri kazanılabilir metal oranını anlatır. Kılıf, dolgu, zırh ve diğer bileşenler toplam ağırlığa dahildir. Aynı ağırlıktaki iki kablo partisinin metal içeriği farklı olabilir. Bu yüzden karışık kablo için yalnızca toplam kiloya bakarak soyulmuş bakır fiyatı üzerinden hesap yapılamaz.</p>\n<h2>Hurda kablo fiyatını etkileyen unsurlar</h2><ul><li>İletkenin bakır, alüminyum veya başka bir bileşim olması.</li><li>Kablonun kesiti, kılıfı ve metal oranı.</li><li>Farklı kablo türlerinin birlikte veya ayrı sunulması.</li><li>Kir, nem ve yabancı madde bulunması.</li><li>Net ağırlık, miktar, teslim koşulları ve güncel piyasa.</li></ul><p>Teklifte hangi kablo sınıfının esas alındığını ve tartımın nasıl yapılacağını sorun. Fotoğrafla verilen ön bilginin, yerinde inceleme sonucunda değişebileceğini hesaba katın.</p>\n<h2>Kabloları satışa nasıl hazırlamalısınız?</h2><p>Yalnızca enerjisiz olduğu uzman tarafından doğrulanmış, kullanım dışı kabloları hazırlayın. Tesisata bağlı kablolara müdahale etmeyin. Elinizdeki parçaları bakır iletkenli, alüminyum iletkenli ve türü bilinmeyenler olarak ayrı tutun; bilmediğiniz malzemeyi tahminle etiketlemek yerine fotoğrafını paylaşın.</p><p>Kablo kılıfını yakmayın. Yakma işlemi zararlı duman oluşturur ve malzemeyi kirletir. Kılıfı kendiniz soymadan önce kablonun mevcut haliyle nasıl kabul edildiğini sorun; her kabloda soyma işçiliği aynı sonucu vermez.</p>\n<h2>Körfez’de kablo hurdası için iletişim</h2><p>Yaklaşık miktarı, kablonun kaynağını ve bulunduğunuz bölgeyi belirterek bilgi alabilirsiniz. Sanayi üretim artıkları ile ev tadilatından kalan karışık kabloların ayrı tarif edilmesi değerlendirmeyi kolaylaştırır. Metal sınıfları için <a href=\"/bakir-hurda/\">bakır hurda alımı</a> ve <a href=\"/aluminyum-hurda/\">alüminyum hurda alımı</a> sayfalarına bakabilirsiniz.</p>\n<h2>Kablonun kilosu neden tek bir fiyat değildir?</h2><p>İletken türü ve randıman değiştiği için tüm kablolara uygulanabilecek tek bir kilogram fiyatı yoktur. Güncel teklif için malzemenin fotoğrafını gönderin; <a href=\"/blog/bakir-hurda-nasil-ayrilir-ve-satilir/\">bakır hurda ayırma rehberi</a> de hazırlık aşamasında yardımcı olabilir.</p>","tarih":"2026-10-24"},{"slug":"korfez-petek-hurdasi","baslik":"Körfez’de Petek Hurdası: Eski Kalorifer Peteği Nasıl Satılır?","title":"Körfez Petek Hurdası | Kalorifer Radyatörü Rehberi","desc":"Körfez ve İzmit’te petek hurdası değerlendirme rehberi. Panel, döküm ve alüminyum kalorifer peteği ayrımı, tartım ve teslim hazırlığı.","govde":"\n<p>Kalorifer tesisatı yenilendiğinde eski petekler depoda yer kaplayabilir. Körfez’de petek hurdası değerlendirmek isteyenler için ilk adım, radyatörün türünü ve yaklaşık miktarını belirlemektir. Eski kalorifer peteği; panel, döküm veya alüminyum yapıda olabilir ve her tür aynı şekilde fiyatlandırılmaz.</p>\n<h2>Panel, döküm ve alüminyum petek farkı</h2><p>Panel radyatörler genellikle çelik sacdan üretilir. Döküm radyatörler dilimli yapıları ve ağır gövdeleriyle bilinir. Alüminyum radyatörler ise farklı bir metal sınıfında değerlendirilir. Boya ve yüzey görünümü ayrımı zorlaştırabilir; emin olmadığınız peteklerin genel görünümünü ve bağlantı kısımlarını fotoğraflayın.</p><p>Çelik parçalar için <a href=\"/demir-hurda/\">demir hurda</a>, alüminyum gövdeler için <a href=\"/aluminyum-hurda/\">alüminyum hurda</a> sayfalarımızdaki bilgilerden yararlanabilirsiniz. Vana ve bağlantıların malzemesi ana gövdeden farklı olabilir.</p>\n<h2>Petek hurdası fiyatı neye göre hesaplanır?</h2><p>Metal türü, net ağırlık, yabancı madde, karışık bağlantılar ve piyasa koşulları değerlendirmede rol oynar. Sadece petek sayısı veya uzunluğu kesin fiyat hesabı için yeterli değildir. Aynı uzunluktaki petekler model, yükseklik ve panel sayısına göre farklı ağırlıkta olabilir.</p><p>Adet ve ölçü bilgisi ön görüşmede işe yarar; son değerlendirme tartımla netleşir. Teklifin hangi metal sınıfına göre verildiğini, taşıma şartlarını ve varsa değerlendirmeye etki eden kesintileri teslimden önce sorun.</p>\n<h2>Söküm ve teslim öncesinde nelere dikkat edilmeli?</h2><ul><li>Tesisata bağlı radyatörleri uzman tesisatçıya söktürün; sıcak veya basınçlı sisteme müdahale etmeyin.</li><li>Söküm sırasında suyun kontrollü boşaltılmasını sağlayın; dolu petekleri taşımayın.</li><li>Petek türlerini mümkünse ayrı gruplarda tutun.</li><li>Adet, yaklaşık ölçü, kat ve asansör bilgisiyle birlikte fotoğraf gönderin.</li><li>Ağır döküm radyatörler için taşıma düzenini teslimden önce görüşün.</li></ul>\n<h2>İzmit, Yarımca ve Dilovası’ndan petek hurdası talepleri</h2><p>Merkezimiz Körfez’dedir. İzmit, Yarımca ve Dilovası’nda tesisat yenilemesinden çıkan petekler için konumunuzu ve miktarı paylaşarak bilgi alabilirsiniz. Adresten teslim alma gereksinimi varsa erişim ve taşıma şartlarını önceden konuşun.</p>\n<h2>Sık sorulanlar</h2><h3>Paslı veya boyalı petek değerlendirilebilir mi?</h3><p>Yüzeyde pas veya boya bulunması metal türünün incelenmesine engel değildir. Kabul ve fiyat, peteğin genel durumu ve net metal içeriği değerlendirilerek belirlenir; satış öncesi boya kazımanız gerekmez.</p><h3>Kombi ve petek için birlikte teklif alınabilir mi?</h3><p>İki malzemeyi ayrı fotoğraflayıp adetlerini belirterek görüşebilirsiniz. Cihazın hazırlığı hakkında <a href=\"/blog/korfez-kombi-hurdasi/\">eski kombi hurdası rehberini</a> okuyabilirsiniz. Malzemeleri tek bir metal türü gibi hesaplamadan, ayrı sınıflarla değerlendirme istemeniz daha anlaşılır bir teklif sağlar.</p>","tarih":"2026-10-24"}]'''))
+
 SSS = [
     ("Hangi hurda türlerini değerlendiriyorsunuz?", "Demir, bakır, alüminyum, pirinç ve araç hurdası gibi metal hurdalar hakkında bilgi veriyoruz. Malzemenizin fotoğrafını göndererek ön bilgi alabilirsiniz."),
     ("Hangi bölgelere hizmet veriyorsunuz?", "Merkezimiz Körfez’dedir. Körfez, İzmit, Dilovası, Yarımca ve çevresindeki talepler için bizi arayabilirsiniz."),
@@ -221,6 +223,8 @@ SSS = [
 ]
 
 # ====================== 3) ŞABLON FONKSİYONLARI ======================
+REHBER_LINKLERI = "<h2>Kombi, kablo ve petek hurdası rehberleri</h2><p>Körfez ve Kocaeli çevresinde tesisat yenilemesinden çıkan malzemeler için hazırladığımız rehberleri inceleyin.</p><ul><li><a href=\"/blog/korfez-kombi-hurdasi/\">Körfez’de Kombi Hurdası: Eski Kombi Nasıl Değerlendirilir?</a></li><li><a href=\"/blog/kocaeli-kablo-hurdasi/\">Kocaeli’de Kablo Hurdası: Bakır Kablo Nasıl Ayrılır ve Satılır?</a></li><li><a href=\"/blog/korfez-petek-hurdasi/\">Körfez’de Petek Hurdası: Eski Kalorifer Peteği Nasıl Satılır?</a></li></ul>"
+
 def e(s): return html.escape(s, quote=True)
 
 def ld(obj): return '<script type="application/ld+json">' + json.dumps(obj, ensure_ascii=False) + '</script>'
@@ -248,6 +252,24 @@ def sss_schema(liste):
 NAV = [("/", "Ana Sayfa"), ("/demir-hurda/", "Demir"), ("/bakir-hurda/", "Bakır"), ("/aluminyum-hurda/", "Alüminyum"), ("/arac-hurdasi/", "Araç"), ("/blog/", "Blog"), ("/iletisim/", "İletişim")]
 
 def sayfa(yol, title, desc, govde, schemalar=(), og_tip="website", gizle=False):
+    # SEO verisi mevcut HTML güncellemesiyle aynı kaynaktan okunur.
+    with open(os.path.join(os.path.dirname(__file__), "seo-pages.json"), encoding="utf-8") as seo_file:
+        seo = json.load(seo_file).get(yol, {})
+    title = seo.get("title", title)
+    desc = seo.get("description", desc)
+    if yol == "/":
+        import re
+        govde = re.sub(r'<p class="giris">.*?</p>', lambda _: '<p class="giris">' + html.escape(seo["intro"]) + '</p>', govde, count=1, flags=re.S)
+        govde += seo.get("home_section", "")
+        schemalar = [dict(s, openingHours="Mo-Su 00:00-23:59") if s.get("@type") == "LocalBusiness" else s for s in schemalar]
+    if "h1" in seo:
+        import re
+        govde = re.sub(r"<h1>.*?</h1>", lambda _: "<h1>" + html.escape(seo["h1"]) + "</h1>", govde, count=1)
+    if "section" in seo:
+        govde = govde.replace("</article>", seo["section"] + "</article>", 1)
+    if yol == "/izmit-hurdaci/":
+        govde = govde.replace("İzmit’da", "İzmit’te")
+        schemalar = json.loads(json.dumps(schemalar, ensure_ascii=False).replace("İzmit’da", "İzmit’te"))
     url = SITE + yol
     def _cur(h): return ' aria-current="page"' if h == yol else ""
     nav = "".join(f'<li><a href="{h}"{_cur(h)}>{t}</a></li>' for h, t in NAV)
@@ -273,16 +295,12 @@ def sayfa(yol, title, desc, govde, schemalar=(), og_tip="website", gizle=False):
 <meta property="og:url" content="{url}">
 <meta property="og:image" content="{SITE}/assets/img/foto-1.svg">
 <meta name="theme-color" content="#1f2529">
-<link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="manifest" href="/site.webmanifest">
 <link rel="stylesheet" href="/assets/css/style.css">
 {''.join(ld(s) for s in schemalar)}
 </head>
 <body>
 <a class="atla" href="#icerik">İçeriğe geç</a>
-<div class="serit"><div class="kap"><span>{ADRES_SATIR}</span><a href="{TEL_HREF}">Hemen ara: {TEL_GORUNEN}</a></div></div>
 <header class="ust">
   <div class="kap">
     <a class="logo" href="/">Körfezde<span>Hurda</span></a>
@@ -323,58 +341,27 @@ def kirinti_html(parcalar):
     s.append(parcalar[-1][0])
     return '<nav class="kirinti" aria-label="Sayfa yolu">' + " / ".join(s) + "</nav>"
 
-IKONLAR = {
-    "tel": '<path d="M5 4h4l2 5-2.5 1.5a11 11 0 005 5L15 13l5 2v4a2 2 0 01-2 2A16 16 0 013 6a2 2 0 012-2z"/>',
-    "konum": '<path d="M12 21s7-6.2 7-11a7 7 0 10-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/>',
-    "mesaj": '<path d="M4 5h16v11H9l-5 4z"/>',
-    "demir-hurda": '<path d="M3 7h18M3 12h18M3 17h18M7 7v10M17 7v10"/>',
-    "bakir-hurda": '<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.2"/>',
-    "aluminyum-hurda": '<path d="M7 3h10v18H7zM7 8h10M7 16h10"/>',
-    "arac-hurdasi": '<path d="M3 16l2-6a2 2 0 012-1.4h10A2 2 0 0119 10l2 6v3h-3v-2H6v2H3z"/><circle cx="7.5" cy="14" r=".8"/><circle cx="16.5" cy="14" r=".8"/>',
-    "bolge": '<path d="M12 3l9 5-9 5-9-5zM3 13l9 5 9-5"/>',
-}
-def ikon(n): return f'<svg class="ikon" viewBox="0 0 24 24" aria-hidden="true">{IKONLAR[n]}</svg>'
-
-HARITA_EMBED = "https://www.google.com/maps?q=Abd%C3%BClhamit+Caddesi+K%C3%B6rfez+Kocaeli&output=embed"
-
-def fis(baslik="Bize ulaşın"):
-    return f"""<div class="iletisim-kart">
-  <h3>{baslik}</h3>
-  <ul>
-    <li>{ikon("tel")}<span><small>{YETKILI}</small><a class="tel" href="{TEL_HREF}">{TEL_GORUNEN}</a></span></li>
-    <li>{ikon("konum")}<span><small>Adres</small>{ADRES_SATIR}</span></li>
-  </ul>
-  <div class="dugmeler"><a class="btn btn-kirmizi" href="{TEL_HREF}">Ara</a><a class="btn btn-cizgi" href="{WA_HREF}" rel="noopener">WhatsApp</a></div>
+def fis(baslik="Hurdanız mı var?"):
+    return f"""<div class="fis">
+  <h2>{baslik}</h2>
+  <dl>
+    <div><dt>Demir</dt><dd>Alınır</dd></div>
+    <div><dt>Bakır / Pirinç</dt><dd>Alınır</dd></div>
+    <div><dt>Alüminyum</dt><dd>Alınır</dd></div>
+    <div><dt>Araç hurdası</dt><dd>Bilgi alın</dd></div>
+  </dl>
+  <a class="tel" href="{TEL_HREF}">{TEL_GORUNEN}</a>
+  <p>{YETKILI} · Körfez, Abdülhamit Cd.</p>
 </div>"""
-
-def harita_kutusu():
-    return f'<div class="harita"><iframe src="{HARITA_EMBED}" title="{AD} konum haritası – Abdülhamit Caddesi, Körfez" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></div>'
-
-def konum_blogu():
-    return f"""<section class="bolum acik" id="konum"><div class="kap">
-  <div class="bolum-baslik"><h2>Konum ve iletişim</h2><p>Körfez, Abdülhamit Caddesi. Gelmeden önce aramanızı öneririz.</p></div>
-  <div class="konum">
-    <div class="iletisim-kart">
-      <h3>{AD}</h3>
-      <ul>
-        <li>{ikon("tel")}<span><small>{YETKILI}</small><a class="tel" href="{TEL_HREF}">{TEL_GORUNEN}</a></span></li>
-        <li>{ikon("konum")}<span><small>Adres</small>{ADRES_SATIR}</span></li>
-        <li>{ikon("bolge")}<span><small>Hizmet bölgeleri</small>Körfez, İzmit, Dilovası, Yarımca</span></li>
-      </ul>
-      <div class="dugmeler"><a class="btn btn-kirmizi" href="{TEL_HREF}">Hemen ara</a><a class="btn btn-cizgi" href="{WA_HREF}" rel="noopener">WhatsApp</a><a class="btn btn-cizgi" href="{HARITA}" target="_blank" rel="noopener">Yol tarifi</a></div>
-    </div>
-    {harita_kutusu()}
-  </div>
-</div></section>"""
 
 def yan_menu():
     h = "".join(f'<li><a href="/{x["slug"]}/">{x["ad"]} Alımı</a></li>' for x in HIZMETLER)
     b = "".join(f'<li><a href="/{x["slug"]}/">{x["ad"]} Hurdacı</a></li>' for x in BOLGELER)
-    return f'<aside class="yan">{fis()}<h3>Hurda türleri</h3><ul>{h}</ul><h3>Bölgeler</h3><ul>{b}</ul></aside>'
+    return f'<aside class="yan">{fis()}<h3>Hurda türleri</h3><ul>{h}</ul><h3 style="margin-top:1.4rem">Bölgeler</h3><ul>{b}</ul></aside>'
 
 def cagri_blogu(metin="Hurdanızı değerlendirmek için bizi arayın"):
     return f"""<section class="cagri"><div class="kap"><div><h2>{metin}</h2><p>{YETKILI} · {ADRES_SATIR}</p></div>
-<div class="dugmeler" style="margin:0"><a class="btn btn-mavi" href="{TEL_HREF}">{TEL_GORUNEN}</a><a class="btn btn-cizgi" href="{WA_HREF}" rel="noopener">WhatsApp</a></div></div></section>"""
+<div class="dugmeler" style="margin:0"><a class="btn btn-sari" href="{TEL_HREF}">{TEL_GORUNEN}</a><a class="btn btn-cizgi" href="{WA_HREF}" rel="noopener">WhatsApp</a></div></div></section>"""
 
 def sss_html(liste):
     return '<div class="sss">' + "".join(f"<details><summary>{e(q)}</summary><p>{e(a)}</p></details>" for q, a in liste) + "</div>"
@@ -385,44 +372,33 @@ def yaz(yol, icerik):
     with open(dosya, "w", encoding="utf-8") as f: f.write(icerik)
 
 def blog_kart(b):
-    i = [x["slug"] for x in BLOGLAR].index(b["slug"]) % len(FOTOLAR)
-    f = FOTOLAR[i]
-    return (f'<article class="blog-kart"><a href="/blog/{b["slug"]}/" tabindex="-1" aria-hidden="true"><img src="/assets/img/{f["dosya"]}" alt="" width="1200" height="800" loading="lazy"></a>'
-            f'<div class="gov"><time datetime="{b["tarih"]}">{b["tarih"]}</time><h3><a href="/blog/{b["slug"]}/">{e(b["baslik"])}</a></h3>'
-            f'<p>{e(b["desc"])}</p><a class="devam" href="/blog/{b["slug"]}/">Yazıyı oku</a></div></article>')
+    return f'<article class="kutu"><h3><a href="/blog/{b["slug"]}/" style="text-decoration:none">{e(b["baslik"])}</a></h3><p>{e(b["desc"])}</p><a class="devam" href="/blog/{b["slug"]}/">Yazıyı oku</a></article>'
 
 # ====================== 4) SAYFALARI ÜRET ======================
 urls = []
 
 # ---- Ana sayfa ----
 foto_html = "".join(f'<figure><img src="/assets/img/{f["dosya"]}" alt="{e(f["alt"])}" width="1200" height="800" loading="{"eager" if i == 0 else "lazy"}"><figcaption>{e(f["yazi"])}</figcaption></figure>' for i, f in enumerate(FOTOLAR))
-hizmet_kart = "".join(f'<div class="kutu">{ikon(h["slug"])}<h3>{h["ad"]}</h3><p>{h["ozet"]}</p><a class="devam" href="/{h["slug"]}/">{h["ad"]} alımı</a></div>' for h in HIZMETLER)
-bolge_kart = "".join(f'<div class="kutu">{ikon("konum")}<h3>{b["ad"]} Hurdacı</h3><p>{b["ozet"]}</p><a class="devam" href="/{b["slug"]}/">{b["ad"]} hurda alımı</a></div>' for b in BOLGELER)
+hizmet_kart = "".join(f'<div class="kutu"><h3>{h["ad"]}</h3><p>{h["ozet"]}</p><a class="devam" href="/{h["slug"]}/">{h["ad"]} alımı hakkında</a></div>' for h in HIZMETLER)
+bolge_kart = "".join(f'<div class="kutu"><h3>{b["ad"]} Hurdacı</h3><p>{b["ozet"]}</p><a class="devam" href="/{b["slug"]}/">{b["ad"]} hurda alımı</a></div>' for b in BOLGELER)
 son_bloglar = "".join(blog_kart(b) for b in sorted(BLOGLAR, key=lambda x: x["tarih"], reverse=True)[:3])
-f0 = FOTOLAR[0]
 ana = f"""
 <section class="hero"><div class="kap">
   <div>
     <h1>Körfez’de hurdacı: demir, bakır ve alüminyum hurda alımı</h1>
     <p class="giris">Körfez, İzmit, Dilovası ve Yarımca’da hurdanızı değerlendirmek için bir telefon yeterli. Merkezimiz Körfez, Abdülhamit Caddesi.</p>
-    <div class="dugmeler"><a class="btn btn-kirmizi" href="{TEL_HREF}">Hemen ara: {TEL_GORUNEN}</a><a class="btn btn-cizgi" href="{WA_HREF}" rel="noopener">WhatsApp’tan yaz</a></div>
+    <div class="dugmeler"><a class="btn btn-sari" href="{TEL_HREF}">Hemen ara: {TEL_GORUNEN}</a><a class="btn btn-cizgi" href="{WA_HREF}" rel="noopener">WhatsApp’tan yaz</a></div>
   </div>
-  <figure class="hero-foto"><img src="/assets/img/{f0["dosya"]}" alt="{e(f0["alt"])}" width="1200" height="800" fetchpriority="high"><figcaption>Körfez / Kocaeli</figcaption></figure>
+  {fis()}
 </div></section>
 
-<div class="hizli"><div class="kap">
-  <a href="{TEL_HREF}">{ikon("tel")}<span><small>Hemen arayın</small><strong>{TEL_GORUNEN}</strong></span></a>
-  <a class="k" href="#konum">{ikon("konum")}<span><small>Adres</small><strong>Abdülhamit Cd., Körfez</strong></span></a>
-  <div>{ikon("bolge")}<span><small>Hizmet bölgeleri</small><strong>Körfez · İzmit · Dilovası · Yarımca</strong></span></div>
-</div></div>
-
 <section class="bolum"><div class="kap">
-  <div class="bolum-baslik"><h2>Hurda sahamızdan görüntüler</h2><p>Demir, bakır, alüminyum ve araç hurdası çalışmalarımızdan kareler.</p></div>
+  <div class="bolum-baslik"><h2>Hurdaya bir göz atın</h2><p>Fotoğraf alanları: kendi hurda sahanızın ve çalışmalarınızın fotoğraflarını buraya ekleyin.</p></div>
   <div class="foto-sira">{foto_html}</div>
 </div></section>
 
 <section class="bolum acik"><div class="kap">
-  <div class="bolum-baslik"><h2>Hangi hurdayı alıyoruz?</h2><p>Malzemenizin türüne göre ilgili sayfaya göz atın.</p></div>
+  <div class="bolum-baslik"><h2>Hangi hurdayı alıyoruz?</h2><p>Malzemenizin türüne göre sayfaya göz atın.</p></div>
   <div class="izgara">{hizmet_kart}</div>
 </div></section>
 
@@ -443,10 +419,8 @@ ana = f"""
 <section class="bolum acik"><div class="kap">
   <div class="bolum-baslik"><h2>Hurda rehberi: blogdan son yazılar</h2></div>
   <div class="izgara">{son_bloglar}</div>
-  <p style="margin-top:1.6rem"><a class="btn btn-mavi" href="/blog/">Tüm blog yazıları</a></p>
+  <p style="margin-top:1.4rem"><a href="/blog/">Tüm blog yazıları</a></p>
 </div></section>
-
-{konum_blogu()}
 
 <section class="bolum"><div class="kap">
   <div class="bolum-baslik"><h2>Sık sorulan sorular</h2></div>
@@ -473,8 +447,8 @@ for h in HIZMETLER:
   <h2>Satmadan önce hazırlık</h2><ul>{hz}</ul>
   <h2>Hizmet verdiğimiz bölgeler</h2><p>{bl}</p>
   <h2>Sık sorulan sorular</h2>{sss_html(sss_h)}
-  <p style="margin-top:1.5rem"><a class="btn btn-mavi" href="{TEL_HREF}">Ara: {TEL_GORUNEN}</a></p>
-</article>{yan_menu()}</div>
+  <p style="margin-top:1.5rem"><a class="btn btn-pas" href="{TEL_HREF}">Ara: {TEL_GORUNEN}</a></p>
+{REHBER_LINKLERI}</article>{yan_menu()}</div>
 {cagri_blogu()}"""
     yaz(yol, sayfa(yol, h["title"], h["desc"], g, [isletme_schema(), kirinti_schema(kr), sss_schema(sss_h)]))
     urls.append(yol)
@@ -496,8 +470,8 @@ for b in BOLGELER:
   <h2>Adres ve iletişim</h2>
   <p>{YETKILI}<br>{ADRES_SATIR}<br><a href="{TEL_HREF}">{TEL_GORUNEN}</a></p>
   <h2>Sık sorulan sorular</h2>{sss_html(sss_b)}
-  <p style="margin-top:1.5rem"><a class="btn btn-mavi" href="{TEL_HREF}">{b['ad']} için ara</a></p>
-</article>{yan_menu()}</div>
+  <p style="margin-top:1.5rem"><a class="btn btn-pas" href="{TEL_HREF}">{b['ad']} için ara</a></p>
+{REHBER_LINKLERI}</article>{yan_menu()}</div>
 {cagri_blogu(f"{b['ad']}’da hurdanız mı var?")}"""
     yaz(yol, sayfa(yol, b["title"], b["desc"], g, [isletme_schema(), kirinti_schema(kr), sss_schema(sss_b)]))
     urls.append(yol)
@@ -506,7 +480,7 @@ for b in BOLGELER:
 kr = [("Ana Sayfa", "/"), ("Blog", "/blog/")]
 kartlar = "".join(blog_kart(b) for b in sorted(BLOGLAR, key=lambda x: x["tarih"], reverse=True))
 g = f"""
-<div class="sayfa-baslik"><div class="kap">{kirinti_html(kr)}<h1>Hurda Rehberi ve Blog</h1><p>Hurda demir, bakır, alüminyum ve araç hurdası hakkında pratik bilgiler.</p></div></div>
+<div class="sayfa-baslik"><div class="kap">{kirinti_html(kr)}<h1>Hurda Rehberi ve Blog</h1><p>Kombi, kablo, petek, demir, bakır ve alüminyum hurdası hakkında Körfez ve Kocaeli için pratik rehberler.</p></div></div>
 <section class="bolum"><div class="kap"><div class="izgara">{kartlar}</div></div></section>
 {cagri_blogu()}"""
 yaz("/blog/", sayfa("/blog/", "Hurda Blogu: Demir, Bakır, Alüminyum Rehberi | Körfezde Hurda", "Hurda fiyatları, ayrıştırma, araç hurdası ve Kocaeli sanayi hurdası hakkında rehber yazılar.", g, [isletme_schema(), kirinti_schema(kr)]))
@@ -518,14 +492,14 @@ for b in BLOGLAR:
     kr = [("Ana Sayfa", "/"), ("Blog", "/blog/"), (b["baslik"], yol)]
     makale = {"@context": "https://schema.org", "@type": "BlogPosting", "headline": b["baslik"], "description": b["desc"],
               "datePublished": b["tarih"], "dateModified": b["tarih"], "mainEntityOfPage": SITE + yol,
-              "author": {"@type": "Person", "name": YETKILI}, "publisher": {"@type": "Organization", "name": AD, "url": SITE + "/"},
+              "author": {"@type": "Organization", "name": AD, "url": SITE + "/"}, "publisher": {"@type": "Organization", "name": AD, "url": SITE + "/"},
               "image": SITE + "/assets/img/foto-1.svg", "inLanguage": "tr-TR"}
     g = f"""
 <div class="sayfa-baslik"><div class="kap">{kirinti_html(kr)}<h1>{e(b['baslik'])}</h1></div></div>
 <div class="kap icerik"><article>
   <p class="meta"><time datetime="{b['tarih']}">{b['tarih']}</time> · {YETKILI}</p>
   {b['govde']}
-</article>{yan_menu()}</div>
+{REHBER_LINKLERI}</article>{yan_menu()}</div>
 {cagri_blogu()}"""
     yaz(yol, sayfa(yol, b["title"], b["desc"], g, [makale, kirinti_schema(kr)], og_tip="article"))
     urls.append(yol)
@@ -534,26 +508,24 @@ for b in BLOGLAR:
 kr = [("Ana Sayfa", "/"), ("İletişim", "/iletisim/")]
 g = f"""
 <div class="sayfa-baslik"><div class="kap">{kirinti_html(kr)}<h1>İletişim</h1><p>Körfez, Kocaeli – hurda için bize ulaşın.</p></div></div>
-<div class="kap" style="padding:3rem 0">
-  <div class="kartlar3">
-    <div class="kutu">{ikon("tel")}<h3>Telefon</h3><p>{YETKILI}</p><a href="{TEL_HREF}">{TEL_GORUNEN}</a></div>
-    <div class="kutu">{ikon("mesaj")}<h3>WhatsApp</h3><p>Fotoğraf göndererek ön bilgi alın.</p><a class="devam" href="{WA_HREF}" rel="noopener">Mesaj gönder</a></div>
-    <div class="kutu">{ikon("konum")}<h3>Adres</h3><p>{ADRES_SATIR}</p><a class="devam" href="{HARITA}" target="_blank" rel="noopener">Yol tarifi al</a></div>
-  </div>
-  {harita_kutusu()}
-  <div style="margin-top:2rem" class="kutu">
-    <h3>Hurdanızı bildirirken</h3>
-    <ul><li>Hurdanın cinsini (demir, bakır, alüminyum, araç vb.) söyleyin.</li><li>Yaklaşık miktarı ve bulunduğu konumu belirtin.</li><li>Mümkünse bir fotoğraf gönderin.</li></ul>
-    <p style="margin:0">Hizmet bölgeleri: Körfez, İzmit, Dilovası, Yarımca ve çevresi.</p>
-  </div>
-</div>
-{cagri_blogu("Hurdanız için hemen arayın")}"""
+<div class="kap icerik"><article>
+  <h2>{AD}</h2>
+  <p><strong>{YETKILI}</strong></p>
+  <p><strong>Adres:</strong> {ADRES_SATIR}<br>
+  <strong>Telefon:</strong> <a href="{TEL_HREF}">{TEL_GORUNEN}</a><br>
+  <strong>WhatsApp:</strong> <a href="{WA_HREF}" rel="noopener">Mesaj gönder</a></p>
+  <p><a class="btn btn-pas" href="{HARITA}" target="_blank" rel="noopener">Haritada aç</a></p>
+  <h2>Hizmet bölgeleri</h2>
+  <p>Körfez, İzmit, Dilovası, Yarımca ve çevresi.</p>
+  <h2>Hurdanızı bildirirken</h2>
+  <ul><li>Hurdanın cinsini (demir, bakır, alüminyum, araç vb.) söyleyin.</li><li>Yaklaşık miktarı ve bulunduğu konumu belirtin.</li><li>Mümkünse bir fotoğraf gönderin.</li></ul>
+{REHBER_LINKLERI}</article>{yan_menu()}</div>"""
 yaz("/iletisim/", sayfa("/iletisim/", "İletişim | Körfezde Hurda – Körfez, Kocaeli", "Körfezde Hurda iletişim: Abdülhamit Caddesi, Körfez / Kocaeli. Rasıh Şenses – 0536 847 52 15.", g, [isletme_schema(), kirinti_schema(kr)]))
 urls.append("/iletisim/")
 
 # ---- 404 ----
 g = f"""<section class="bolum"><div class="kap"><h1>Sayfa bulunamadı</h1><p>Aradığınız sayfa taşınmış ya da hiç var olmamış olabilir.</p>
-<p><a class="btn btn-mavi" href="/">Ana sayfaya dön</a> <a class="btn btn-kirmizi" href="{TEL_HREF}">{TEL_GORUNEN}</a></p></div></section>"""
+<p><a class="btn btn-pas" href="/">Ana sayfaya dön</a> <a class="btn btn-sari" href="{TEL_HREF}">{TEL_GORUNEN}</a></p></div></section>"""
 with open(os.path.join(OUT, "404.html"), "w", encoding="utf-8") as f:
     f.write(sayfa("/404.html", "Sayfa bulunamadı | Körfezde Hurda", "Sayfa bulunamadı.", g, gizle=True))
 
@@ -569,7 +541,8 @@ open(os.path.join(OUT, "robots.txt"), "w", encoding="utf-8").write(f"User-agent:
 # ---- görsel yer tutucular ----
 def yer_tutucu(n, renk):
     return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800"><rect width="1200" height="800" fill="{renk}"/><g stroke="#ffffff22" stroke-width="2">' + "".join(f'<path d="M{-800+i*120} 800L{i*120+400} 0"/>' for i in range(0, 20)) + f'</g><text x="600" y="380" fill="#fff" font-family="Arial" font-size="64" font-weight="700" text-anchor="middle">FOTOĞRAF {n}</text><text x="600" y="450" fill="#ffffffb0" font-family="Arial" font-size="34" text-anchor="middle">1200 × 800 – kendi fotoğrafınızı ekleyin</text></svg>'
-for i, c in enumerate(["#1856b8", "#0a2351", "#d3202a"], 1):
+for i, c in enumerate(["#3a444a", "#5a3a2c", "#2f4a45"], 1):
     open(os.path.join(OUT, "assets/img", f"foto-{i}.svg"), "w", encoding="utf-8").write(yer_tutucu(i, c))
+open(os.path.join(OUT, "assets/img/favicon.svg"), "w", encoding="utf-8").write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="10" fill="#1f2529"/><path d="M12 44h40v6H12zM18 40l6-18h16l6 18z" fill="#f2c230"/></svg>')
 
 print(f"{len(urls)} sayfa üretildi → {OUT}")
