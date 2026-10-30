@@ -124,6 +124,24 @@ BOLGELER = [
     },
 ]
 
+BOLGELER.append({
+    "slug": "gebze-hurdaci",
+    "ad": "Gebze",
+    "title": "Gebze Hurdacı | Demir, Bakır ve Alüminyum | Körfezde Hurda",
+    "desc": "Gebze hurdacı ve metal hurda alımı talepleri için 0536 847 52 15. Körfez merkezli işletmemize fotoğraf ve konum gönderin; fiyat ve teslim koşullarını görüşün.",
+    "h1": "Gebze Hurdacı ve Metal Hurda Alımı",
+    "ozet": "Gebze’de metal hurda talepleri için Körfez merkezimizle alım ve teslim planını görüşün.",
+    "giris": [
+        "Gebze’de ev, iş yeri, atölye veya depoda biriken demir, bakır ve alüminyum hurdalarınız için Körfezde Hurda ile iletişime geçebilirsiniz. Merkezimiz Abdülhamit Caddesi, Körfez / Kocaeli adresindedir. Gebze’deki malzemenizin konumunu ve fotoğraflarını paylaşarak alım uygunluğunu, taşıma koşullarını ve zamanı birlikte netleştirin."
+    ],
+    "maddeler": [
+        "Demir, sac ve profil artıkları",
+        "Bakır kablo ve boru hurdası",
+        "Alüminyum profil ve doğrama",
+        "Atölye ve depo metal hurdaları"
+    ]
+})
+
 # --- BLOG: yeni yazı eklemek için listeye bir kayıt ekleyin, sonra "python tools/build.py" çalıştırın ---
 BLOGLAR = [
     {
@@ -257,6 +275,10 @@ def sayfa(yol, title, desc, govde, schemalar=(), og_tip="website", gizle=False):
         seo = json.load(seo_file).get(yol, {})
     title = seo.get("title", title)
     desc = seo.get("description", desc)
+    if yol == "/gebze-hurdaci/":
+        schemalar = [dict(s, areaServed=s.get("areaServed", []) + [{"@type": "City", "name": "Gebze"}]) if s.get("@type") == "LocalBusiness" else s for s in schemalar]
+    if yol.startswith("/blog/") and "h1" in seo:
+        schemalar = [dict(s, headline=seo["h1"], description=desc, dateModified="2026-10-30") if s.get("@type") == "BlogPosting" else s for s in schemalar]
     if yol == "/":
         import re
         govde = re.sub(r'<p class="giris">.*?</p>', lambda _: '<p class="giris">' + html.escape(seo["intro"]) + '</p>', govde, count=1, flags=re.S)
