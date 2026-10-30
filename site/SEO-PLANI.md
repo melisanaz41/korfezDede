@@ -38,3 +38,14 @@ Bu bilgilerle yerel profil tutarlılığı, gerçek hizmet ayrıntıları ve say
 - Google başlık önerileri: https://developers.google.com/search/docs/appearance/title-link
 - Google SEO başlangıç rehberi: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
 - Yerel işletme yapılandırılmış verileri: https://developers.google.com/search/docs/appearance/structured-data/local-business
+
+## Körfez hurdacı güncellemesi — 30 Ekim 2026
+
+- Hedef sorgu: `körfez hurdacı`; öncelikli sayfa: `/korfez-hurdaci/`. Ana sayfanın `körfez hurda` başlığı ve canonical adresleri korundu.
+- Bölge sayfasının title, description, Open Graph ve H1 alanları güncellendi. Adresten alım, malzeme hazırlığı, fiyat değerlendirmesi ve Körfez/Yarımca iletişim içeriği eklendi. Mevcut 7/24 ve minimum tutar olmadan hizmet bilgileri kullanıldı; işletme şemasına çalışma saatleri eklendi. Körfez'de yazımı düzeltildi; görünür SSS ile FAQPage eşleşmesi korundu.
+- Ana sayfadan açıklayıcı bağlantı eklendi. Yalnızca ana sayfa ve Körfez hurdacı sayfasının sitemap lastmod değerleri güncellendi.
+- Değişiklikler kök siteye ve IDE'de açık `korfezDede/site` kopyasına, her birinin tasarımı korunarak uygulandı. SEO verileri ve üreticideki ilgili dönüşümler de güncellendi. Tüm site üreticisi çalıştırılmadı; elle yapılan diğer değişiklikleri korumak için üretmeden önce farkları inceleyin.
+- Kontrol: her iki kopyada tek H1, SEO kaynağıyla başlık/içerik eşleşmesi, JSON-LD ayrıştırması, görünür SSS eşleşmesi, bölge sayfasının yerel bağlantı hedefleri ve sitemap tarihleri doğrulandı. Tarayıcı ve canlı sunucu kontrolü yapılmadı.
+- Yayın yapılmadı. Mevcut hosting'e kullandığınız kopyadan `index.html`, `korfez-hurdaci/index.html` ve `sitemap.xml` yükleyin. `tools` dosyalarını yayınlamak gerekmez.
+- Yayından sonra Search Console'da `/korfez-hurdaci/` ve ana sayfa için URL Denetimi yapın, dizine ekleme isteyin ve sitemap'i gönderin. `körfez hurdacı` sorgusunun gösterim, tıklama ve sayfa dağılımını önceki eşit dönemle karşılaştırın. Sıralama garantisi verilmez.
+- Google rehberi: https://developers.google.com/search/docs/essentials

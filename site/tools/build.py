@@ -267,6 +267,10 @@ def sayfa(yol, title, desc, govde, schemalar=(), og_tip="website", gizle=False):
         govde = re.sub(r"<h1>.*?</h1>", lambda _: "<h1>" + html.escape(seo["h1"]) + "</h1>", govde, count=1)
     if "section" in seo:
         govde = govde.replace("</article>", seo["section"] + "</article>", 1)
+    if yol == "/korfez-hurdaci/":
+        govde = govde.replace("Körfez’da", "Körfez'de")
+        schemalar = json.loads(json.dumps(schemalar, ensure_ascii=False).replace("Körfez’da", "Körfez'de"))
+        schemalar = [dict(s, openingHours="Mo-Su 00:00-23:59") if s.get("@type") == "LocalBusiness" else s for s in schemalar]
     if yol == "/izmit-hurdaci/":
         govde = govde.replace("İzmit’da", "İzmit’te")
         schemalar = json.loads(json.dumps(schemalar, ensure_ascii=False).replace("İzmit’da", "İzmit’te"))
